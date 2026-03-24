@@ -29,7 +29,7 @@
 
 - Python 3.9+
 - 可访问 https://ceac.state.gov
-- 智谱 API Key（用于验证码识别）
+- 智谱 API Key（用于验证码识别，可以去https://open.bigmodel.cn/注册登录获取）
 
 ## 安装依赖
 
