@@ -125,8 +125,8 @@ On failure, the process exits with a non-zero code, which is useful for CI and s
 ## Related Links
 
 - Skill page: https://clawhub.ai/xavierjiezou/ceac-visa-status-checker
-- Reference repository (inspiration only, no code copy): https://github.com/Andision/CEACStatusBot
-- Reference repository (inspiration only, no code copy): https://github.com/dutou520/SakuraFRP_Auto_AI_check
+- Reference repository: https://github.com/Andision/CEACStatusBot
+- Reference repository: https://github.com/dutou520/SakuraFRP_Auto_AI_check
 
 ## Security Notes
 
