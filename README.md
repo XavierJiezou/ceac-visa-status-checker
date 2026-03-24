@@ -125,8 +125,8 @@ python scripts/check_ceac_status.py
 ## 相关链接
 
 - Skill 发布页: https://clawhub.ai/xavierjiezou/ceac-visa-status-checker
-- 参考仓库（思路参考，非代码拷贝）: https://github.com/Andision/CEACStatusBot
-- 参考仓库（思路参考，非代码拷贝）: https://github.com/dutou520/SakuraFRP_Auto_AI_check
+- 参考仓库: https://github.com/Andision/CEACStatusBot
+- 参考仓库: https://github.com/dutou520/SakuraFRP_Auto_AI_check
 
 ## 安全说明
 
