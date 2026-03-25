@@ -6,6 +6,9 @@
 >
 > Language: 中文 | [English](README.en.md)
 
+<img width="611" height="1320" alt="image" src="https://github.com/user-attachments/assets/6a7ce13d-cfcf-4c64-b985-54f89d4e93be" />
+
+
 ## 功能特性
 
 - 自动访问 CEAC 状态查询页面 (NIV)
