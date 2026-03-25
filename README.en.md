@@ -6,6 +6,8 @@ Automatically check U.S. visa application status from CEAC (NIV), solve captcha 
 >
 > Language: [中文](README.md) | English
 
+<img width="611" height="1320" alt="image" src="https://github.com/user-attachments/assets/6a7ce13d-cfcf-4c64-b985-54f89d4e93be" />
+
 ## Features
 
 - Automatically opens the CEAC status page (NIV)
